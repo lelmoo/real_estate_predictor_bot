@@ -1,0 +1,5 @@
+aiogram~=3.7.0
+pandas~=2.2.2
+scikit-learn~=1.5.0
+catboost~=1.2.5
+geodist~=0.4
